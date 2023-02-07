@@ -1,5 +1,7 @@
 Follow the steps for every tailwind project. I will mention the modifications for each project in it's corresponding directory.
 
+Prerequisite: Download and install Node.js
+
 To run the application as part of tailwind-css, we need to first setup the necessary installation.
 Open terminal in VSCode (in your project directory). Then follow the steps below:
 
